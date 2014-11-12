@@ -1,6 +1,6 @@
 # helper-lorem [![NPM version](https://badge.fury.io/js/helper-lorem.svg)](http://badge.fury.io/js/helper-lorem)
 
-> Template helper for generator lorem-ipsum placeholder text. Should work with any template engine.
+> Template helper for generator lorem-ipsum placeholder text. Should work with any template engine, but can also be used a regular javascript util.
 
 
 ## Install
@@ -87,14 +87,14 @@ Verb (lo-dash, with special delimiters to avoid delimiter collision in documenta
 
 
 ## Contributing
-Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/jonschlinkert/helper-lorem/issues)
+Pull requests and stars are always welcome. For bugs and feature requests, [please create an issue](https://github.com/helpers/helper-lorem/issues)
 
 ## Author
 
 **Jon Schlinkert**
  
-+ [github/jonschlinkert](https://github.com/jonschlinkert)
-+ [twitter/jonschlinkert](http://twitter.com/jonschlinkert) 
++ [github/helpers](https://github.com/helpers)
++ [twitter/helpers](http://twitter.com/helpers) 
 
 ## License
 Copyright (c) 2014 Jon Schlinkert  
