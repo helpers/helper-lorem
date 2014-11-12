@@ -1,0 +1,63 @@
+{
+  "name": "helper-lorem",
+  "description": "Template helper for generator lorem-ipsum placeholder text. Should work with any template engine.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jonschlinkert/helper-lorem",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jonschlinkert/helper-lorem.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/helper-lorem/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jonschlinkert/helper-lorem/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "devDependencies": {
+    "handlebars": "^2.0.0",
+    "lodash": "^2.4.1",
+    "mocha": "*",
+    "should": "*"
+  },
+  "keywords": [
+    "docs",
+    "documentation",
+    "dummy",
+    "filler",
+    "filter",
+    "generate",
+    "generator",
+    "handlebars",
+    "helper",
+    "ipsum",
+    "lodash",
+    "lorem",
+    "markdown",
+    "mixin",
+    "placeholder",
+    "swig",
+    "templates",
+    "text",
+    "underscore",
+    "util",
+    "verb"
+  ],
+  "dependencies": {
+    "extend-shallow": "^0.1.1",
+    "lorem-ipsum": "^1.0.1"
+  }
+}
